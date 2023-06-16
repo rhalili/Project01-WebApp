@@ -1,6 +1,3 @@
-# Project01-WebApp
-Project 1 is to build, secure, and protect a cloud application that hosts your own cyber blog.
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -29,7 +26,7 @@ Project 1 is to build, secure, and protect a cloud application that hosts your o
     <section id="about" class="intro">
         <!--Replace with your own image-->
         <img src="https://drive.google.com/uc?export=view&id=1kwcV-J_eoYKa8ZCgIzb1qIiuZpts-u17"
-            alt="Robert Smith picture" height=375px;>
+            alt="Ron Halili picture" height=375px;>
         <h2 class="section-title">Hi, I'm Ron!</h2>
         <p>
             I am a National Security professional with experience that spans managing investigations as an FBI Special Agent
